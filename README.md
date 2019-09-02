@@ -27,11 +27,11 @@ User Accounts
 
 ## Analysis include:
 
-1. Explorary Analysis
+1. Explorary Analysis: 
 1). Post of high reputation users
 2). Identify veterans and brief users - sample test data
 3). Identify veterans and brief users - full data
 4). Word2vec Model for synonyms similarity
 
-2. Classification
+2. Classification: 
 predict the tags of a question from its body text. Instead of predicting specific tags, we try to predict if a question contains one of the top ten most common tags.
